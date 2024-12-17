@@ -1,0 +1,72 @@
+/* *{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+} */
+
+.tribute-page{
+    text-align: center;
+    background-color: #eee;
+    margin-top: 30px;
+    padding: 70px 10px;
+    border-radius: 20px;
+}
+.tribute-div h1{
+  font-size: 2.5em;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  
+}
+.tribute-div p{
+    font-size: 1.2em;
+    /* margin-top: 20px; */
+    padding: 30px;
+
+}
+figure img{
+    width: 95%;
+    height: 40%;
+}
+.fig-cap{
+    padding: 15px;
+    font-size: 24px;
+    font-weight: 100;
+    line-height: 35px;
+}
+figure{
+    background-color: #ffffff;
+    width: 90%;
+   margin: auto;
+}
+section{
+    margin-top: 70px;
+}
+section h3{
+    padding: 50px 0px;
+    font-size: 1.5em;
+    
+}
+section ul{
+    max-width: 50%;
+    margin:50px auto ;
+    text-align: left;
+    font-size: 1.3em;
+    line-height:150px ;
+}
+section ul li{
+    font-weight: 100;
+    line-height: 35px;
+   padding: 15px;
+}
+.quote{
+    font-size: 1.5em;
+    font-style: italic;
+    max-width: 50%;
+    margin: 30px auto;
+    text-align: left;
+    font-weight: 100;
+}
+.quote-text{
+    margin-top: 40px;
+    font-weight: 100;
+    font-style: italic;
+}
